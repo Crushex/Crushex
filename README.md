@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently learning everything about **python**, **artificial intelligence** and to collaborate on projects.
+I'm currently learning everything about **python**, **artificial intelligence** and how to collaborate on projects.
